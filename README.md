@@ -38,7 +38,7 @@ git clone https://github.com/SagarDas07/lan-chat.git
 2. Navigate to the project directory:
 
 ```bash
-cd lan-chat
+cd lan-chatj
 ```
 
 3. Install dependencies:
